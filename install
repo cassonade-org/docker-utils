@@ -1,0 +1,1 @@
+sudo cp docker_purge.sh /usr/bin/docker_purge
